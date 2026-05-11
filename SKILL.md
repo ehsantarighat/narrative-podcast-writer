@@ -1,3 +1,8 @@
+---
+name: narrative-podcast-writer
+description: Creates narrative podcast scripts in Persian or English, including source review, podcast brief, episode outline, full script, and publishing package.
+---
+
 # Narrative Podcast Writer — Claude Skill
 
 ## Purpose
